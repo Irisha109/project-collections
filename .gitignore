@@ -38,7 +38,7 @@ build/
 .DS_Store
 
 ### Files ###
-com/aston/util/Main.java
+src/main/java/com/aston/util/Main.java
 
 
 
